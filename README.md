@@ -16,6 +16,7 @@
 - [Jax](https://github.com/google/jax)
 - [LightGBM](https://github.com/microsoft/LightGBM/tree/master)
 - [CatBoost](https://github.com/catboost/catboost)
+- [YaFSD](https://github.com/yandex/YaFSDP)
 - [Optuna](https://github.com/optuna/optuna)
 
 #### Model Interoperability
