@@ -37,3 +37,4 @@
 - [Hadoop](https://github.com/apache/hadoop)
 - [Spark](https://github.com/apache/spark)
 - [Airflow]()
+- [Feast](https://github.com/feast-dev/feast) - feature store
