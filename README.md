@@ -1,10 +1,11 @@
 # ML Technologies
 
 #### Programming Languages
-- [Python]()
+- [Python](https://www.python.org/)
 - [R Language]()
 
 #### General Frameworks for Data Investigation
+- [Numpy](https://github.com/numpy/numpy)
 - [Pandas](https://github.com/pandas-dev/pandas)
 
 #### General Frameworks for Model Fitting and Hyperparameter Optimization 
@@ -16,15 +17,21 @@
 - [CatBoost](https://github.com/catboost/catboost)
 - [Optuna](https://github.com/optuna/optuna)
 
+#### Model Interoperability
+
+- [ONNX](https://onnx.ai/)
+
 #### ML Ops
 
 - [MLflow](https://github.com/mlflow/mlflow)
+- [Kubeflow](https://github.com/kubeflow/)
+- [ClearML](https://github.com/allegroai/clearml)
 
 #### Dev Ops
 - [Docker](https://github.com/docker)
 - [Kubernetes](https://github.com/kubernetes/kubernetes)
 
 #### BigData Processing
-- [Hadoop]()
-- [Spark]()
+- [Hadoop](https://github.com/apache/hadoop)
+- [Spark](https://github.com/apache/spark)
 - [Airflow]()
