@@ -7,6 +7,7 @@
 #### General Frameworks for Data Investigation
 - [Numpy](https://github.com/numpy/numpy)
 - [Pandas](https://github.com/pandas-dev/pandas)
+- [Dask](https://github.com/dask)
 
 #### General Frameworks for Model Fitting and Hyperparameter Optimization 
 - [Sklearn](https://github.com/scikit-learn/scikit-learn)
