@@ -9,6 +9,12 @@
 - [Pandas](https://github.com/pandas-dev/pandas)
 - [Dask](https://github.com/dask)
 
+#### Data Vizualization
+
+- [Plotly](https://github.com/plotly/plotly.py)
+- [Matplotlib](https://github.com/matplotlib/matplotlib)
+- [Seaborn](https://github.com/mwaskom/seaborn)
+
 #### General Frameworks for Model Fitting and Hyperparameter Optimization 
 - [Sklearn](https://github.com/scikit-learn/scikit-learn)
 - [PyTorch](https://github.com/pytorch/pytorch)
