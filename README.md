@@ -16,6 +16,7 @@
 - [Seaborn](https://github.com/mwaskom/seaborn)
 
 #### General Frameworks for Model Fitting and Hyperparameter Optimization 
+- [Statsmodel](https://github.com/statsmodels/statsmodels/)
 - [Sklearn](https://github.com/scikit-learn/scikit-learn)
 - [PyTorch](https://github.com/pytorch/pytorch)
 - [Tensorflow](https://github.com/tensorflow)
